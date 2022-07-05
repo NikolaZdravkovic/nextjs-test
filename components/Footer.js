@@ -1,7 +1,6 @@
 import footerStyle from '../styles/Footer.module.css'
 
 const Footer = () => {
-    console.log('test')
     return (
         <div className={footerStyle.footer}>
 
